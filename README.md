@@ -149,6 +149,6 @@ Le pipeline Jenkins automatise le cycle de vie du modèle :
 
 ## 👥 Auteur
 
-**Bassem Benhamed** - *MLOps Engineer*
+**Lionel NAGUEU, ELISEE DECHATEAU, OUSSAMA HADOUSH** - *Master II DATA & IA Valenciennes*
 
 Projet réalisé dans le cadre d'une mise en œuvre de pipeline MLOps complet.
